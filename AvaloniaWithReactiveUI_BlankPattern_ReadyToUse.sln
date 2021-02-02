@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAvaloniaBinding", "TestAvaloniaBinding.csproj", "{2692EAD3-C61C-477C-B478-7EA05BD022D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvaloniaWithReactiveUI_BlankPattern_ReadyToUse", "AvaloniaWithReactiveUI_BlankPattern_ReadyToUse.csproj", "{2692EAD3-C61C-477C-B478-7EA05BD022D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
